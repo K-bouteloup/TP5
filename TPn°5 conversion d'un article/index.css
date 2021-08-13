@@ -1,0 +1,15 @@
+h1,h2{color:#6F232B;}
+
+h1,h2,h3{text-align: center;
+        text-transform: uppercase;}
+
+h3{color: #BE3745;}
+
+.image1{display: block;
+        margin-right: auto;
+        margin-left: auto ;}
+
+article{text-align: center;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;}
